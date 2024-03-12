@@ -1,6 +1,6 @@
-# Dir2TXT
+# Codebase2File
 
-Dir2TXT is a utility for merging code files within a directory into a single text file.
+This is a utility for merging code files within a local directory into a single text file.
 
 **Examples:**
 
@@ -8,6 +8,7 @@ Merge files in the current directory:
 
 ```bash
 combine .
+# Creates a file named after the input directory with a .txt extension
 ```
 
 Merge files in the `src` directory, including only Python and JavaScript files. Save as `merged.txt`:
@@ -23,13 +24,13 @@ To get the tool on your system, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aistudiodev/dir2txt.git
+git clone https://github.com/aistudiodev/codebase2file.git
 ```
 
 2. Navigate to the directory:
 
 ```bash
-cd dir2txt
+cd codebase2file
 ```
 
 3. Run the script:
