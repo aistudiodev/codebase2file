@@ -72,6 +72,10 @@ combine <directory> [options]
 
 - The tool automatically excludes files and directories specified in .gitignore and the .git directory.
 
+## Credits
+
+- Inspired by [github2file](https://github.com/cognitivecomputations/github2file) by @cognitivecomputations
+
 ## Troubleshooting
 
 If you encounter issues, please create an issue on the GitHub repository.
