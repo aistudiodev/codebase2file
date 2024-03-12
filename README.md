@@ -70,7 +70,7 @@ combine <directory> [options]
 
 ## Notes
 
-- The tool automatically excludes files and directories specified in .gitignore and the .git directory.
+- The tool automatically excludes files and directories specified in `.gitignore` and the `.git` directory.
 
 ## Credits
 
